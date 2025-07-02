@@ -14,4 +14,5 @@ To create a privacy-first, censorship-resistant tool for secure data vaults usin
 
 ## License
 
-MIT (see LICENSE file)
+This project is licensed under the Vault Stealth License v1.0 (Non-Commercial, Privacy-Preserving).
+See [LICENSE_PRIVACY_NONCOMMERCIAL.txt](./LICENSE_PRIVACY_NONCOMMERCIAL.txt) for details.
