@@ -1,0 +1,9 @@
+
+# Ignore node_modules, build artifacts, sensitive files
+node_modules/
+build/
+dist/
+.env
+*.log
+*.zip
+*.DS_Store
